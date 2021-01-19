@@ -1,2 +1,2 @@
 # dicee-swiftUI
-<img src="./demo.png" width="350px"/>
+<img src="./demo.gif" width="350px"/>
